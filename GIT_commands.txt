@@ -1,0 +1,8 @@
+git --version
+git init
+git status
+git add file_name.txt
+git commit -m "Added first file"
+git push -u origin master
+git log
+git --help
